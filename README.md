@@ -1,4 +1,5 @@
-# E-Commerce Sales Performance Analysis
+# E-Commerce Sales Performance Analysis 
+# - Please view as RAW - 
 
 ## Project goal
 Analyze customer and order data to identify revenue drivers, top customers, and regional performance using SQL and Python/pandas.
