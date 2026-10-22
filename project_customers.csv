@@ -1,0 +1,13 @@
+customer_id,customer_name,city,region
+101,Customer 01,New York,East
+102,Customer 02,Boston,East
+103,Customer 03,Chicago,Midwest
+104,Customer 04,Seattle,West
+105,Customer 05,Austin,South
+106,Customer 06,Miami,South
+107,Customer 07,Denver,West
+108,Customer 08,Philadelphia,East
+109,Customer 09,Phoenix,West
+110,Customer 10,Detroit,Midwest
+111,Customer 11,Atlanta,South
+112,Customer 12,Portland,
